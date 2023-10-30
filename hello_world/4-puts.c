@@ -8,7 +8,7 @@
  * Return: always 0 (Success)
  */
 
-main(void) 
+int main(uso de pust) 
 
 {	puts("\"Programming is like building a multilingual puzzle");
 return (0);
