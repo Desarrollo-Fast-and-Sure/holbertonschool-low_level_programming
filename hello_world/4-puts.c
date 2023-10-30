@@ -1,6 +1,6 @@
 #include <stdio.h>
 
- /** 
+ /*
  * main - Funcion Comando Puts
  * description 'Uso Funcion Puts'
  * parametro: se usa la funcion main
@@ -9,7 +9,7 @@
  */
 
 int main(void)	
-	{	
+{	
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
