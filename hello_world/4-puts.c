@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /** 
-*main-Cprogram:prints"FuncionComando Puts"
+*main-Cprogram:prints"FuncionComandoPuts"
 *
 *Return:always 0
 *
