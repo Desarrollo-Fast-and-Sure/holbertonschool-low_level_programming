@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/** 
- * main " prints "Funcion Comando Puts
+ /** 
+ * main - prints "Funcion Comando Puts
  * descripcion 'Uso Funcion Puts'
  * parametro: se usa la funcion main
  *
@@ -9,7 +9,7 @@
  */
 int main(void)
 {	
-	puts("\"Programming is like building a multilingual puzzle\"");
+puts("\"Programming is like building a multilingual puzzle\"");
 	return (0);
 }
 
