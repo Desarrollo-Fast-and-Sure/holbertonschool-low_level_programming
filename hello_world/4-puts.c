@@ -5,7 +5,7 @@
  * descripcion 'Uso Funcion Puts'
  * parametro: se usa la funcion main
  *
- * Return:always 0.
+ * Return: always 0 (Success)
  */
 int main(void)
 {	
