@@ -3,7 +3,7 @@
 /*
 * main - C Funcion Comando Puts
 * description 'Uso Funcion Puts'
-* parameter:se usa la funcion main  
+* parameter se usa la funcion main  
 * Return: always 0 (Success)
 */
 
