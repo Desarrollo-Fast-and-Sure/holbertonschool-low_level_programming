@@ -3,7 +3,7 @@
  /*
  * main - Funcion Comando Puts
  * description 'Uso Funcion Puts'
- * parametro:'se usa la funcion main' 
+ * parameter:'se usa la funcion main' 
  * Return: always 0 (Success)
  */
 
