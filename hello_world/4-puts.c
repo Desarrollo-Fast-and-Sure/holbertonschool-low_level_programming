@@ -8,7 +8,7 @@
 * Return: always 0 (Success)
 */
 
-int main(void);
+int main(0);
 {	puts("Programming is like building a multilingual puzzle");
 return (0);
 }
