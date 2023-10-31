@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
 *main - Funtion Command Prints a specific line of text
-*description'Uso Funcion printf' 
-*
+* description"Uso Funcion printf" 
+
 * Return: always 0 (Success)
 */
 
