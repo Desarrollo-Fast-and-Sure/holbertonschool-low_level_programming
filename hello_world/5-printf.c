@@ -2,7 +2,7 @@
 
 /**
 * main - C Funtion Command Prints a specific line of text
-* description 'Uso Funcion printf' 
+* description Uso Funcion printf 
 * parameter se usa la funcion printf
 *
 * Return: always 0 (Success)
