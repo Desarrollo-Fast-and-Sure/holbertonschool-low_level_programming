@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - C Funtion Prints a specific line of text
+* main -C Funtion Prints a specific line of text
 * description 'Uso Funcion printf' 
 * parameter se usa la funcion main
 *
