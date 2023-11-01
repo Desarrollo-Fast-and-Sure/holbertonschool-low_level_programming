@@ -1,12 +1,13 @@
 #include <stdio.h>
 
 /**
-* main - Funtion Command Prints a specific line of text
-* description'Uso Funcion printf' 
-* parametro: se usa la funcion printf
+* main - C Funtion Command Prints a specific line of text
+* description 'Uso Funcion printf' 
+* parameter se usa la funcion printf
 *
 * Return: always 0 (Success)
 */
+
 int main(void)
 { 
 
