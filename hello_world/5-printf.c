@@ -2,7 +2,6 @@
 
 /**
 * main - C Funtion Prints line of text
-
 * parameter se usa la funcion main
 *
 * Return: always 0 (Success)
