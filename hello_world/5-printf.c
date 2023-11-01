@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* main - C Funtion Command Prints a specific line of text
-* description Uso Funcion printf 
-* parameter se usa la funcion printf
+* main - C Funtion Prints a specific line of text
+* description 'Uso Funcion printf' 
+* parameter se usa la funcion main
 *
 * Return: always 0 (Success)
 */
