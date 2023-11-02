@@ -3,7 +3,6 @@
 #include <time.h>
 
 /**
-*
 * main - C entry value
 *
 * Return: always 0 (Success)
