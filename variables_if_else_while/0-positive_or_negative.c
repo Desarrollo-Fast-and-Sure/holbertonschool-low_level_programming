@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- 17  * main - Entry value 
- 18  *
- 19  * Return: always 0 (Success)
- 20  */
+* main - Entry value 
+*
+* Return: always 0 (Success)
+*/
 
 int main(void)
 {
