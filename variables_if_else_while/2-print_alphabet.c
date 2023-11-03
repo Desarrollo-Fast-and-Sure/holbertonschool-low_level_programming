@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
 *main - C Using putchar funtion
-*return (0).
+*Return: return (0).
 */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 	while (alphabet <= 'z')
 	{
 		putchar('\n');
-		return (0);
+		alphabet++;
 	}
 	putchar('\n');
 	return (0);
