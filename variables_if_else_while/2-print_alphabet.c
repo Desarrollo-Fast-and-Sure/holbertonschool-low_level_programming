@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
 *main - C Using putchar funtion
-Return: return (0).
+return (0).
 */
 int main(void)
 {
