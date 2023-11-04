@@ -10,7 +10,7 @@ int main(void)
 
 	alphabet = 'a';
 
-	for (alphabet = 'a'; alphabet <= 'z';
+	for (alphabet = 'a'; alphabet <= 'z');
 			
 		putchar(alphabet);
 		alphabet++;
@@ -18,4 +18,3 @@ int main(void)
 		putchar('\n');
 	return (0);
 }
-
