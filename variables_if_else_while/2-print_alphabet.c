@@ -4,7 +4,7 @@
 *Return: return (0).
 */
 int main(void);
-{
+	{
 	char alphabet;
 
 	alphabet = 'a';
@@ -15,4 +15,4 @@ int main(void);
 
 		putchar('\n');
 	return (0);
-}
+	}	
