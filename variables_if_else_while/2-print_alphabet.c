@@ -10,8 +10,8 @@
 
 		alphabet = 'a';
 
-		for ("(alphabet) = 'a';
-		(alphabet) <= 'z'");
+		for (alphabet) = 'a';
+		for (alphabet) <= 'z';
 
 		{	
 			putchar(alphabet);
