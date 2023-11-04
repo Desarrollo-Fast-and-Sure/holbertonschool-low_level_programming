@@ -6,11 +6,12 @@
 int main(void)
 {
  
-char letters; /* variable is declared to represent a letter */
+char letters;
+/* variable is declared to represent a letter */
 /* Prints lowercase letters from 'a' to 'z' */
- 
 for (letters = 'a'; letters <= 'z'; letters++)
 {    
+
 /* Conditional which excludes the letters q and e */
 if (letters != 'q' && letters != 'e')
  
