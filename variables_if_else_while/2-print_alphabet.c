@@ -11,8 +11,7 @@
 		alphabet = 'a';
 
 		for (alphabet) = 'a';
-		for (alphabet) <= 'z';
-
+		    (alphabet) <= 'z';
 		{	
 			putchar(alphabet);
 			alphabet++;
@@ -21,3 +20,4 @@
 
 		return (0);
 }		
+
