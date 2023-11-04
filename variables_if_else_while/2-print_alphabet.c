@@ -3,14 +3,14 @@
 *main - C Using putchar funtion
 *Return: return (0).
 */
-int main(void)
+int main(void);
 
 {
 	char alphabet;
 
 	alphabet = 'a';
 
-	for (alphabet = 'a'; alphabet <= 'z');
+	for (alphabet = 'a'; alphabet <= 'z';
 			
 		putchar(alphabet);
 		alphabet++;
