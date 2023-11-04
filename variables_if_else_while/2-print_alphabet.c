@@ -3,18 +3,17 @@
 *main - C Using putchar funtion
 *Return: return (0).
 */
-
 int main(void)
 {  
-char alphabet;
-alphabet = 'a';
+	char alphabet;
 
-while (alphabet <= 'z')
+	alphabet = 'a';
+	while (alphabet <= 'z')
 	{	
-putchar(alphabet);
-alphabet++;
+		putchar(alphabet);
+		alphabet++;
 	}	
-putchar('\n');	
-return (0);
+	putchar('\n');	
+	return (0);
 }
 
