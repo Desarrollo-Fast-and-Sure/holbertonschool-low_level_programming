@@ -6,13 +6,14 @@
 int main(void)
 
 { 
+
 char letters; /* variable is declared to represent a letter */
 /* Prints lowercase letters from 'a' to 'z' */
 
 for (letters = 'a'; letters <= 'z'; letters++)  
 {
 /* conditional which excludes the letters q and e */
-if  (letters ! = 'q' && letters ; letters != 'e')
+if (letters ! = 'q' && letters ; letters != 'e')
 {
 
 	putchar(letters);
@@ -21,4 +22,5 @@ if  (letters ! = 'q' && letters ; letters != 'e')
 }
 putchar('\n'); /* line break */
 return (0);
-} 
+
+}
