@@ -12,8 +12,11 @@ char letters; /* variable is declared to represent a letter */
 
 for (letters = 'a'; letters <= 'z'; letters++)  
 {
-/* conditional which excludes the letters q and e */
-if (letters ! = 'q' && letters ; letters != 'e')
+	putchar(letters);
+}
+/* Prints uppercase letters from 'A' to 'Z' */
+for (letters = 'A'; letters <= 'Z' ; letters++)
+
 {
 
 	putchar(letters);
