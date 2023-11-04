@@ -22,7 +22,8 @@ for (letters = 'A'; letters <= 'Z' ; letters++)
 }
 
 }
-putchar('\n'); /* line break */
-return (0);
+putchar(("'\n'); /* line break */")
 
+return (0);
 }
+
