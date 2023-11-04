@@ -5,6 +5,7 @@
 */
 int main(void);
 {
+
 char alphabet;
 
 alphabet = 'a';
@@ -16,4 +17,5 @@ alphabet++;
 
 putchar('\n');
 return (0);
+
 }		
