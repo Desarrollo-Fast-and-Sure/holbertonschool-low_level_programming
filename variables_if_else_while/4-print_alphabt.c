@@ -10,16 +10,14 @@ char letters; /* variable is declared to represent a letter */
 /* Prints lowercase letters from 'a' to 'z' */
  
 for (letters = 'a'; letters <= 'z'; letters++)
-{
-    
+{    
 /* Conditional which excludes the letters q and e */
 if (letters != 'q' && letters != 'e')
  
-{
-
-        putchar(letters);
-}
- 
+	{	
+putchar(letters);
+	}
+} 
 putchar('\n'); /* line break */
  
 return (0);
