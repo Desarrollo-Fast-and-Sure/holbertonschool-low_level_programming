@@ -21,8 +21,7 @@ for (letters = 'A'; letters <= 'Z' ; letters++)
 	putchar(letters);
 }
 
-}
-putchar(("'\n'); /* line break */")
+putchar("'\n'); /* line break */")
 
 return (0);
 }
