@@ -10,7 +10,6 @@ int n = 0;
 /* Every time n is less than 10 it will continue to iterate */
 while (n < 10)
 {
- 
 putchar("%d", n);
 n++;
 }
