@@ -5,12 +5,12 @@
 */
 int main(void)
 {
-int n = 0;
-/* loop to print the digits from 0 to 9 */
-/* Every time n is less than 10 it will continue to iterate */
-while (n < 10)
+int n = 48;
+/* It is declared with the value 48 of the ASCII code */
+/* when is equivalent to 0 */
+while (n <= 57)
 {
-putchar("%d", n);
+putchar(n);
 n++;
 }
 putchar("\n");
