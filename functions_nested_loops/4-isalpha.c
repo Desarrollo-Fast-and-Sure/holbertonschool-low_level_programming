@@ -1,20 +1,23 @@
 #include "main.h"
 
 /**
- *main - Entry point of my code
- *Return: Always 0
+ *main - Function that checks for alphabetic character.
+ *@c: Declare integer variable
+ *Return: 1 if c is lowercase or uppercase, 0 otherwise.
  */
 
-int main(void)
+int _isalpha(int c)
 {
-	_putchar(95);
-	_putchar(112);
-	_putchar(117);
-	_putchar(116);
-	_putchar(99);
-	_putchar(104);
-	_putchar(97);
-	_putchar(114);
-	_putchar('\n');
+	if (c>= 97 && c <= 122)
+	{
+	return (1);
+	}
+	else if (c <= 65 && c <= 90)
+	{
+	return (1);
+	}
+	else
+	{
 	return (0);
+	}
 }
