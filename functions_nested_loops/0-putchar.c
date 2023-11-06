@@ -2,8 +2,7 @@
 /**
  *main - Entry point of my code
  *Return: Always 0
- */
-  
+ */ 
 int main(void)
 {
 _putchar(95);
@@ -16,5 +15,4 @@ _putchar(97);
 _putchar(114);
 _putchar('\n');
 return (0);
- }
-
+}
