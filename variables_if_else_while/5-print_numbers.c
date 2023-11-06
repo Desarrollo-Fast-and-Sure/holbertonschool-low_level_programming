@@ -11,10 +11,9 @@ int n = 0;
 while (n < 10)
 {
 
-printf("%di", n)
+printf("%di", n);
 	n++;
 {
 printf("\n");
 return (0);
 }
-
