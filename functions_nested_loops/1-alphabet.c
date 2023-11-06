@@ -7,7 +7,7 @@
 {
 	char letters;
 
-	for (letters = 'a'; letters<= 'z'; letters++)
+	for (letters = 'a'; letters <= 'z'; letters++)
 	{
 	_putchar(letters);
 	}
