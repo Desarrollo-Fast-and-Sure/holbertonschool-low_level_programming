@@ -3,7 +3,7 @@
 *main - Program that prints the reverse alphabet
 *Return: return (0).
 */
-int main(void);
+int main(void)
 {
 char letters;
 /* Variable is declared to represent a letter */
