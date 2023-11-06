@@ -8,7 +8,6 @@ int main(void)
 
 char letters; /* variable is declared to represent a letter */
 /* Prints lowercase letters from 'a' to 'z' */
-
 for (letters = 'a'; letters <= 'z'; letters++) 
 {
 	putchar(letters);
