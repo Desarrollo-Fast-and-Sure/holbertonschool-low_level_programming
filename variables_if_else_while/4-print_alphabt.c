@@ -12,12 +12,12 @@ for (letters = 'a'; letters <= 'z'; letters++)
 {
 
 /* Conditional which excludes the letters q and e */
-if (letters != 'q' && letters != 'e')	
-	{
+if (letters != 'q' && letters != 'e')
+{
 putchar(letters);
-	}
 }
-putchar('\n'); 
+}
+putchar('\n';) 
 return (0);
 }
 
