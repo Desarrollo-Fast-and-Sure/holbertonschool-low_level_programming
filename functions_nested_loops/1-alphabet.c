@@ -5,6 +5,7 @@
  *Return: Always void
  */
 void print_alphabet(void);
+
 {
 	char letters;
 
