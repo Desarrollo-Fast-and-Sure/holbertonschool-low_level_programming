@@ -3,7 +3,8 @@
 /**
  *Print_alphabet - Funtion that prints the alphabet, in lowercase
  *Return: Always void
- */void print_alphabet(void)
+ */
+void print_alphabet(void)
 {
 	char letters;
 
