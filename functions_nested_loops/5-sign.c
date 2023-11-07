@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
-*print_sing - Function that prints the sing of a number
+*print_sign - Function that prints the sing of a number
 *@n: Declare integer variable
 *Return: 1 if n is greater than zero
 *0 if n is zero
 *-1 if n is less than zero
 */
-int print_sing(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
