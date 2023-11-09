@@ -2,8 +2,9 @@
 
 /**
  *swap_int  - Write a function that takes a pointer to an int as parameter
- * @n: input
- * Return: n.
+ * @a: Pointer type variable
+ * @b: Pointer type variable
+ * Return: void
  */
 void swap_int(int *a, int *b)
 {
