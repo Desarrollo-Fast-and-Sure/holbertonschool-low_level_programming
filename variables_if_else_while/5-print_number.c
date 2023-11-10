@@ -5,11 +5,11 @@
 
 int main(void)
 
-	int p  = 0;
+	int p = 0;
 {
 	while (p < 10)
 		printf("%d, p);
 	p++;
 }
-		printf("\n");
-		return(0);
+	printf("\n");
+	return(0);
