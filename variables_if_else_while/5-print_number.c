@@ -8,11 +8,8 @@ int main(void)
 	int p  = 0;
 {
 	while (p < 10)
-		printf("%d"; p);
+		printf("%d, p);
 	p++;
 }
-		printf("\n);
-		return();
-
-
-
+		printf("\n");
+		return(0);
